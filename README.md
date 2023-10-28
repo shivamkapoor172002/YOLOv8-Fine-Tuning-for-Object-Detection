@@ -1,5 +1,6 @@
 # YOLOv8 Fine-Tuning for Object Detection https://huggingface.co/spaces/shivam001/trained
 ![image](https://github.com/shivamkapoor172002/YOLOv8-Fine-Tuning-for-Object-Detection/assets/92868323/26363ff8-9bcd-411a-95db-5599943b4d9b)
+Deploy files https://huggingface.co/spaces/shivam001/trained/tree/main
 
 
 Welcome to the YOLOv8 Fine-Tuning project, a comprehensive guide for fine-tuning the YOLO (You Only Look Once) model for object detection using Ultralytics and YOLOv8. This project enables you to train a custom object detection model, evaluate it on validation images, and perform inference on new images.
