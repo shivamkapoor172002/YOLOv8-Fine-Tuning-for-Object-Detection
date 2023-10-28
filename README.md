@@ -36,3 +36,4 @@ To get started, follow the steps outlined in the project. Be sure to install nec
 
 This project is open to contributions and enhancements. You can improve the user interface, expand the capabilities of YOLOv8, or adapt it for specific applications and industries.
 
+![image](https://github.com/shivamkapoor172002/Yolov8-Pothole-Training/assets/92868323/c926d1ac-51e0-470a-9171-dd57fb67eb03)
